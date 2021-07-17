@@ -21,4 +21,4 @@ In my free time, I love reading, working out, playing video games, playing handb
 
 📚 I'm currently reading:
 
-[<img width="50" align="center" src=https://user-images.githubusercontent.com/72951726/126051570-7e310e97-8b68-438e-b6e2-e08234e477f5.png>]
+<img width="100" align="center" src=https://user-images.githubusercontent.com/72951726/126051570-7e310e97-8b68-438e-b6e2-e08234e477f5.png>
