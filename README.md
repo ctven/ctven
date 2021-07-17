@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 I'm a developer with a love for creating tools that make people's lives easier.
 
 In my free time, I love reading, working out, playing video games, playing handball, reselling sneakers/streetwear, and being outside.
+
+
 📚 I'm currently reading:
 
 
