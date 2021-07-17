@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 I'm a developer with a love for creating tools that make people's lives easier.
 
 In my free time, I love reading, working out, playing video games, playing handball, reselling sneakers/streetwear, and being outside.
-
 📚 I'm currently reading:
 <p align="center">
-  [<img width="100" src=https://user-images.githubusercontent.com/72951726/126051570-7e310e97-8b68-438e-b6e2-e08234e477f5.png>](https://www.goodreads.com/book/show/6383363-the-generalissimo)
+  <a href="https://www.goodreads.com/book/show/6383363-the-generalissimo"><img src="https://user-images.githubusercontent.com/72951726/126051570-7e310e97-8b68-438e-b6e2-e08234e477f5.png" alt="The Generalissimo: Chiang Kai-Shek and the Struggle for Modern China" style="width:100"></a>
 </p>
